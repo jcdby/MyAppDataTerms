@@ -1,2 +1,2 @@
 # MyAppDataTerms
-Data Terms
+应用程序收集的所有数据都保存在设备上，不会传输到我们或任何第三方服务器。
