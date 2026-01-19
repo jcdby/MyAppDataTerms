@@ -1,0 +1,2 @@
+# MyAppDataTerms
+Data Terms
